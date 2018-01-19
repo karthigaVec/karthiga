@@ -1,0 +1,66 @@
+.logo
+{
+  width: 200px;
+  height: 50px;
+}
+.fright
+{
+  float:right;
+}
+.fleft
+{
+  float: left;
+}
+.clearfix{
+  clear:both;
+}
+header{
+  padding: 40px;
+  height: 40px;
+}
+footer{
+  background-color: #000000;
+  height: 50px;
+  padding: 20px;
+}
+body{
+  font-family: 'Lato', sans-serif;
+  background-color: #442D4B;
+  color:white;
+}
+header ul li{
+display:inline-block;
+padding: 10px 40px;
+}
+header ul li a{
+  color: #ffcb59;
+  text-decoration: none;
+}
+.addmovie{
+  width:500px;
+  margin:0 auto;
+}
+.addmovie h2{
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+.addmovie label,.addmovie input{
+  display: block;
+}
+.addmovie input,.addmovie textarea,.addmovie select{
+  width: 100%;
+  background-color:#442D4B;
+  border: 1px solid white;
+  margin: 7px 0 15px;
+  color: white;
+  padding: 0 5px;
+  font-size: 19px;
+  font-family: inherit;
+}
+.addmovie input{
+  height: 40px;
+}
+button{
+  background-color: #000000;
+}
