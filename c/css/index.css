@@ -61,6 +61,36 @@ header ul li a{
 .addmovie input{
   height: 40px;
 }
+.divide{
+  display: inline-block;
+  width: 50%;
+}
+form{
+  white-space: normal;
+}
+.divide{
+  display: inline-block;
+  color: white;
+  width: 50%;
+  box-sizing: border-box;
+
+}
+.hello{
+  padding-left: 10px;
+}
+
 button{
-  background-color: #000000;
+  color:white;
+  background: black;
+  display: block;
+  margin: auto;
+}
+.language_div{
+  padding-left: 0;
+}
+footer img{
+  height: 20px;
+  width: 20px;
+  padding: 10px 10px;
+  display: inline-block;
 }
