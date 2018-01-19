@@ -1,0 +1,33 @@
+body{
+
+  background-color: #442D4B;
+  color:white;
+}
+.stars{
+  height: 10px;
+}
+.film{
+  height: 100px;
+  width: 100px;
+}
+footer{
+  background-color: #000000;
+  height: 50px;
+  padding: 20px;
+}
+.logo
+{
+  width: 200px;
+  height: 50px;
+}
+.fleft
+{
+  float: left;
+}
+.clearfix{
+  clear:both;
+}
+header{
+  padding: 40px;
+  height: 40px;
+}
