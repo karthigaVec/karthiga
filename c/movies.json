@@ -1,0 +1,18 @@
+var movie = [{
+  "language": "tamil"
+    "movie": "aruvi",
+    "year": 2017,
+    "ratings": 3
+    },
+    {
+    "language": "english",
+    "movie": "logan",
+    "year": 2017,
+    "ratings": 4
+},
+{  "language": "hindi",
+  "movie": "tubelight",
+  "year": 2017,
+  "ratings": 5
+
+  }];
